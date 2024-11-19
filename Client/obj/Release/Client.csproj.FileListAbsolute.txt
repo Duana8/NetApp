@@ -1,0 +1,7 @@
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\bin\Release\Client.exe.config
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\bin\Release\Client.exe
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\bin\Release\Client.pdb
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\obj\Release\Client.exe
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Client\obj\Release\Client.pdb
