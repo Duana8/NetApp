@@ -1,0 +1,7 @@
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\bin\Release\Server.exe.config
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\bin\Release\Server.exe
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\bin\Release\Server.pdb
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\obj\Release\Server.exe
+C:\MySpace\ИИТМА\АдмИС\Сделать\L7\L3\Server\obj\Release\Server.pdb
